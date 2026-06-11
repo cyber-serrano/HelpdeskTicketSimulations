@@ -1,10 +1,10 @@
-## Ticket #002 - Internet Connectivity Issue
+# Ticket #002 - Internet Connectivity Issue
 
-| User Information     | John Smith       |
+| User Information     | John             |
 |----------------------|------------------|
 | **Department**       | Finance          |
 | **Priority**         | High             |
-| **Date Opened**      | May 2026         |
+| **Date Opened**      | May 12, 2025     |
 | **Status**           | ✅ Resolved     |
 
 ## Issue
