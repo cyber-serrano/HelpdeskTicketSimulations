@@ -9,6 +9,7 @@
 
 ## Issue
 User reports no internet connection.
+
 ## Troubleshooting Steps
 1. Checked network adapter status.
 2. Ran ipconfig /all.
@@ -25,3 +26,4 @@ Enabled network adapter and confirmed internet connectivity.
 ## Time To Resolution
 20 Minutes.
 
+## Screenshots
