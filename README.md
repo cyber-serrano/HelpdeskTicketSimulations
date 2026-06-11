@@ -12,11 +12,11 @@ Simulated IT Help Desk tickets demonstrating troubleshooting, customer support, 
 
 | Ticket Number | Issue |
 |--------------|--------|
-| 001 | [Password Reset]() |
+| 001 | [Password Reset](./Ticket-001/Ticket-001.md) |
 | 002 | [Internet Connectivity](./Ticket-002/Ticket-002.md) |
-| 003 | Outlook Not Sending Emails |
-| 004 | Network Printer Offline |
-| 005 | Shared Folder Access Denied |
+| 003 | [Outlook Not Sending Emails](./Ticket-003/Ticket-003.md) |
+| 004 | [Network Printer Offline](./Ticket-004/Ticket-004.md) |
+| 005 | [Shared Folder Access Denied](./Ticket-005/Ticket-005.md) |
 
 ## Tools Used
 
