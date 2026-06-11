@@ -3,7 +3,7 @@
 | User Information     | John Smith       |
 |----------------------|------------------|
 | **Department**       | Finance          |
-| **Priority**         | Medium           |
+| **Priority**         | High             |
 | **Date Opened**      | May 2026         |
 | **Status**           | ✅ Resolved     |
 
