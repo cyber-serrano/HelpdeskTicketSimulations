@@ -7,23 +7,23 @@
 | **Date Opened**      | May 12, 2025     |
 | **Status**           | ✅ Resolved     |
 
-## Issue
+### Issue
 User reports no internet connection.
 
-## Troubleshooting Steps
+### Troubleshooting Steps
 1. Checked network adapter status.
 2. Ran ipconfig /all.
 3. Pinged 8.8.8.8 - failed.
 4. Enabled network adapter.
 5. Pinged 8.8.8.8 - Successful.
 
-## Root Cause
+### Root Cause
 Network adapter was disabled.
 
-## Resolution
+### Resolution
 Enabled network adapter and confirmed internet connectivity.
 
-## Time To Resolution
+### Time To Resolution
 20 Minutes.
 
-## Screenshots
+### Screenshots
