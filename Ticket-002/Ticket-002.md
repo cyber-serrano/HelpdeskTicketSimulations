@@ -1,6 +1,6 @@
 # Ticket #002 - Internet Connectivity Issue
 
-| User Information     | John             |
+| User Information     | John Lee         |
 |----------------------|------------------|
 | **Department**       | Finance          |
 | **Priority**         | High             |
