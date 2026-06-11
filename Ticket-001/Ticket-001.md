@@ -1,6 +1,6 @@
 # Ticket #001 - Password Reset
 
-| User Information     | Sarah            |
+| User Information     | Sarah Wilson     |
 |----------------------|------------------|
 | **Department**       | Marketing        |
 | **Priority**         | Medium           |
