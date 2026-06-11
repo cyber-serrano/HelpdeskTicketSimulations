@@ -27,8 +27,8 @@ User reports inability to log in to workstation.
 - 10 Minutes
 
 ## Skills Demonstrated
-- User Account Management
-- Password Reset
-- Customer Support
+- User Account Management.
+- Password Reset.
+- Customer Support.
 
 ### Screenshots
